@@ -4,3 +4,4 @@ Capítol 3: Repositoris remots
 Capítol 4: Gestió de branques
 Capítol 5: Conceptes avançats
 Capítol 6: bla,bla,bla
+Capítol 7: ara vindrà el problema

@@ -5,3 +5,4 @@ Capítol 4: Gestió de branques
 Capítol 5: Conceptes avançats
 Capítol 6: bla,bla,bla
 Capítol 7: ara toco també a master
+Capítol 8: ara vindrà el problema

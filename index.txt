@@ -1,3 +1,4 @@
 Capítol 1: Introducció
 Capítol 2: Comandes bàsiques
-Capítol 3: Gestió de branques
+Capítol 3: Repositoris remots
+Capítol 4: Gestió de branques
